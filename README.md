@@ -1,2 +1,3 @@
 # Learning
-THis is learning ApnaCollege.
+THis is learning from ApnaCollege.
+By Anand Tiwari
